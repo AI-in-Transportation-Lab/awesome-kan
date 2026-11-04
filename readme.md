@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 3, 2026 at 04:29:12 AM UTC
+November 4, 2026 at 03:49:07 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 3, 2026 at 04:29:12 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (938)
+## Papers (939)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -980,6 +980,7 @@ November 3, 2026 at 04:29:12 AM UTC
 - [Reconstructing Meson Parton Distributions from Mellin Moments with Artificial Neural Networks](https://arxiv.org/abs/2610.41189)
 - [Sonny-ENS: demystifying machine-learning ensemble weather forecasting](https://arxiv.org/abs/2611.01614)
 - [Robust Pixel-wise Digital Image Correlation under Large Motions and Illumination Variations via a Global-to-Local Hybrid Neural Field](https://arxiv.org/abs/2611.01018)
+- [Kolmogorov-Arnold Networks vs. Multi-Layer Perceptrons: A Rigorous Statistical Benchmark on Clinical Tabular Data](https://arxiv.org/abs/2611.02856)
 
 
 ## Library
