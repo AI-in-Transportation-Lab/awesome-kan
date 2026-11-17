@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 15, 2026 at 03:42:20 AM UTC
+November 17, 2026 at 05:38:35 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 15, 2026 at 03:42:20 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (950)
+## Papers (954)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -992,6 +992,10 @@ November 15, 2026 at 03:42:20 AM UTC
 - [Modal-Augmented Chebyshev Physics-Informed Kolmogorov-Arnold Networks for Power Systems](https://arxiv.org/abs/2611.13340)
 - [TorchCurves: Differentiable Parametric Curves](https://arxiv.org/abs/2611.14516)
 - [KQML-Liver: Interpretable Hybrid Quantum Machine Learning with Kolmogorov-Arnold Networks for Liver Disease Classification](https://arxiv.org/abs/2611.15241)
+- [Kolmogorov-Arnold Lookup Table Demappers for Amplitude Phase-Shift Keying over Nonlinear Satellite Links](https://arxiv.org/abs/2611.20068)
+- [Are Kolmogorov-Arnold Networks (KANs) Suitable for Imbalanced Data Classification?](https://arxiv.org/abs/2507.14121)
+- [Graph Neural Network Prediction of Frequency Nadir and RoCoF Under Topology Variations](https://arxiv.org/abs/2611.17757)
+- [Quantum Transitions From Integrable to Chaotic](https://arxiv.org/abs/2611.18777)
 
 
 ## Library
