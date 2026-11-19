@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 18, 2026 at 05:01:31 AM UTC
+November 19, 2026 at 04:57:08 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 18, 2026 at 05:01:31 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (954)
+## Papers (956)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -996,6 +996,8 @@ November 18, 2026 at 05:01:31 AM UTC
 - [Are Kolmogorov-Arnold Networks (KANs) Suitable for Imbalanced Data Classification?](https://arxiv.org/abs/2507.14121)
 - [Graph Neural Network Prediction of Frequency Nadir and RoCoF Under Topology Variations](https://arxiv.org/abs/2611.17757)
 - [Quantum Transitions From Integrable to Chaotic](https://arxiv.org/abs/2611.18777)
+- [Stable admissible neural classes and convergent physics-informed neural networks](https://arxiv.org/abs/2611.24355)
+- [CS-PIKAN: Curvilinear Separable Physics-Informed Kolmogorov-Arnold Networks with Autograd-Based Metric Evaluation and Certified Error Bounds for PDEs on Complex Domains](https://arxiv.org/abs/2608.06660)
 
 
 ## Library
