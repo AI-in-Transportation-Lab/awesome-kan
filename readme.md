@@ -14,7 +14,7 @@ Whether you are a researcher, developer, or enthusiast, this collection provides
 
 
 ## Last Updated
-November 24, 2026 at 07:30:32 AM UTC
+November 25, 2026 at 05:59:12 AM UTC
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@ November 24, 2026 at 07:30:32 AM UTC
 - **2021** - [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - **2021** - [The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
-## Papers (959)
+## Papers (960)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [A Survey on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.06078)
@@ -1001,6 +1001,7 @@ November 24, 2026 at 07:30:32 AM UTC
 - [Constitutive Kolmogorov-Arnold Networks in Finite Element Model Updating: Closed-Form Hyperelastic Strain Energies from Heterogeneous Experiments](https://arxiv.org/abs/2611.26528)
 - [Gradient Boosting with Kolmogorov-Arnold Units for Interpretable Regression beyond Pairwise Interactions](https://arxiv.org/abs/2611.25942)
 - [Neural variational Skyrmions as a topological benchmark: emergent symmetry, precision energies and KAN--MLP comparison](https://arxiv.org/abs/2611.27411)
+- [SPARK: Spectral Preconditioned Analytic Residual Kolmogorov Arnold Networks for incompressible Navier Stokes equations](https://arxiv.org/abs/2611.31834)
 
 
 ## Library
